@@ -104,6 +104,8 @@ body {
 
 @media screen and (max-width: 700px) {
 	#cards .card {
+		flex: 0.6;
+		margin: 0 0.7rem;
 		border-radius: 1rem;
 	}
 	#cards .card h3 {
